@@ -1,0 +1,34 @@
+프로그램 언어 개론
+
+왜 Java ??
+        특성
+
+설치와 환경설정
+    1. Windows
+    2. linux / unix
+
+Java 종류
+    Java SE / EE
+
+Java 실행 환경 - 그림으로 알아두면 좋음
+    JDK
+    JRE / JVM
+
+Java
+    자료
+        자료형
+            기본형 - 정수형 / 실수형 / 진리형 / 문자형
+            객체형
+                * String
+
+        변수 / 상수
+                변수 -    자료형 / 변수명;
+                상수(가능하면 대문자) -   final  자료형 상수명;     // constant
+            형변환
+            연산자 - 자료형(산술연산자)
+    제어
+        조건
+            if / switch
+        반복
+            for
+        기타
