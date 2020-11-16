@@ -1,0 +1,24 @@
+* 프로젝트
+
+* 사용자 정의 클래스
+
+    package / import
+                클래스명
+                        상속
+                        인스턴스
+                * 문법
+
+* API - 내장 클래스
+            용도별로 패키지화
+            * java.lang
+                    - 기본 자료형과 연관된 패키지
+                    - import 하지않음
+
+                    Object
+                            equals()
+                            toString()
+                            ---------------- override - 객체 내용비교, 내용값 출력
+                            hashcode()
+                            getClass()
+
+* 프로세스
